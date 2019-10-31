@@ -1,0 +1,11 @@
+C:\Users\alexa\Desktop\C# Testing\Scadearea a doua numere\bin\Debug\netcoreapp2.1\Scadearea a doua numere.deps.json
+C:\Users\alexa\Desktop\C# Testing\Scadearea a doua numere\bin\Debug\netcoreapp2.1\Scadearea a doua numere.runtimeconfig.json
+C:\Users\alexa\Desktop\C# Testing\Scadearea a doua numere\bin\Debug\netcoreapp2.1\Scadearea a doua numere.runtimeconfig.dev.json
+C:\Users\alexa\Desktop\C# Testing\Scadearea a doua numere\bin\Debug\netcoreapp2.1\Scadearea a doua numere.dll
+C:\Users\alexa\Desktop\C# Testing\Scadearea a doua numere\bin\Debug\netcoreapp2.1\Scadearea a doua numere.pdb
+C:\Users\alexa\Desktop\C# Testing\Scadearea a doua numere\obj\Debug\netcoreapp2.1\Scadearea a doua numere.csprojAssemblyReference.cache
+C:\Users\alexa\Desktop\C# Testing\Scadearea a doua numere\obj\Debug\netcoreapp2.1\Scadearea a doua numere.csproj.CoreCompileInputs.cache
+C:\Users\alexa\Desktop\C# Testing\Scadearea a doua numere\obj\Debug\netcoreapp2.1\Scadearea a doua numere.AssemblyInfoInputs.cache
+C:\Users\alexa\Desktop\C# Testing\Scadearea a doua numere\obj\Debug\netcoreapp2.1\Scadearea a doua numere.AssemblyInfo.cs
+C:\Users\alexa\Desktop\C# Testing\Scadearea a doua numere\obj\Debug\netcoreapp2.1\Scadearea a doua numere.dll
+C:\Users\alexa\Desktop\C# Testing\Scadearea a doua numere\obj\Debug\netcoreapp2.1\Scadearea a doua numere.pdb
