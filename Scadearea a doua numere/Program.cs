@@ -8,11 +8,11 @@ class Test
 {
     static void Main()
     {
-        Console.Write("Number 1: ");
+        Console.Write("Pleas neter number 1: ");
         string stringNumber1 = Console.ReadLine();
         int intergerNumber1 = int.Parse(stringNumber1);
 
-        Console.Write("Number 2: ");
+        Console.Write("Pleas enter number 2: ");
         string stringNumber2 = Console.ReadLine();
         int intergerNumber2 = int.Parse(stringNumber2);
 
